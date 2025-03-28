@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+# Ignore data files
+/data/*
+!data/*.csv
+!data/*.xlsx
+!data/*.parquet
+!data/*.json
+# Streamlit cache
+.streamlit/
