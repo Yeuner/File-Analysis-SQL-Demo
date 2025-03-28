@@ -1,6 +1,6 @@
 #**File Analysis and SQL Query Practice — Python - Streamlit Demo App**
 
-[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://todoodddoooddo-app-url.com)
+[![Live App](https://img.shields.io/badge/LIVE%20APP-CLICK%20TO%20VIEW-green?style=for-the-badge)](https://file-analysis-sql-demo-gv4tpcljrnpkmmr8kvo6ui.streamlit.app/)
 
 This project is a **personal learning initiative** aimed at enhancing my skills in **Python** and **SQL** by building an interactive Streamlit application that simulates a real-world data analysis environment. 
 
@@ -38,7 +38,7 @@ The app showcases the following core functionalities:
 
 ### 📝 **2. SQL Query Execution**
 - Write and execute SQL queries directly on the loaded dataset.
-- Perform basic and advanced operations such as:
+- Perform basic operations such as:
     ```sql
     SELECT * FROM data LIMIT 10;
     ```
